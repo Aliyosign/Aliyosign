@@ -15,5 +15,5 @@ I'm a cloud Engineer, and a student at Altschool Africa (https://altschoolafrica
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=AliceEneyo&show_icons=true&include_all_commits=true&hide_border=true" alt="Alice's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliceEneyo&langs_count=8&layout=compact&hide_border=true" alt="Alice's GitHub stats" /> |
 | ------------- | ------------- |
