@@ -8,7 +8,7 @@ I'm a cloud Engineer, and a student at Altschool Africa (https://altschoolafrica
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning OSS contributions, Linux, and Cloud Engineering.
+- 🌱 I’m currently learning OSS contributions, Linux, and Cloud Engineering/DevOps.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: DevOps Engineer, Cloud Engineer (lntern or junior level).
 - 📫 You can [view my resume](#) and contact me by emailing aliceeneyo@gmail.com
