@@ -9,7 +9,7 @@ Dedicated cybersecurity professional focusing on Governance, Risk, and Complianc
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">https://medium.com/@aliceeneyo</a>|
+| SIEM Implementation and Log Analysis          | <a href=https://github.com/Aliyosign/Detection-lab-/tree/main>Dectection lab</a>|
 | Risk Assessment                                | <a href="https://google.com">Detection Lab</a>|
 | Regulatory Compliance                          | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -76,7 +76,7 @@ Scripting languages: Python, Bash.
 </div>
 
 ## Projects
-- How To Use a Siem tool in a real-life situation
+- <a href=https://github.com/Aliyosign/Detection-lab-/tree/main>Dectection lab</a>
 
 ---
 
